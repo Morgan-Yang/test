@@ -4,7 +4,7 @@ apples
 bananas
 yogurt
 milk
-bread
+wheat bread
 cereal
 eggs
 bacon
@@ -17,6 +17,8 @@ soup
 ice cream
 sugar
 flour
-
+butter
+coffee
+tomatoes
+pears
 sirensofcaspian
-
